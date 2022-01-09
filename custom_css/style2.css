@@ -1,0 +1,14 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+section img{
+    height: 22rem;
+    width: 21rem;
+    border-radius: 170px;
+}
+
+footer{
+    margin-top: 136px;
+}
